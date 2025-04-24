@@ -1,0 +1,15 @@
+{
+  "name": "LOL #3",
+  "description": "LOL Collection",
+  "image": "https://github.com/KJunseo/test-nft-metadata/blob/main/images/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "black"
+    },
+    {
+      "trait_type": "Champions",
+      "value": "galio"
+    }
+  ]
+}
