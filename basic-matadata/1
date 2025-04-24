@@ -1,7 +1,7 @@
 {
   "name": "LOL #1",
   "description": "LOL Collection",
-  "image": "ipfs://bafybeifjf6rbkzbtp6iqb2evbugtxlgaafkng22qhkcvn3tqb4btx77p4u/1.png",
+  "image": "https://github.com/KJunseo/test-nft-metadata/blob/main/images/1.png",
   "attributes": [
     {
       "trait_type": "Background",
