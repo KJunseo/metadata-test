@@ -1,0 +1,15 @@
+{
+  "name": "LOL #10",
+  "description": "LOL Collection",
+  "image": "https://raw.githubusercontent.com/KJunseo/test-nft-metadata/main/images/10.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Champions",
+      "value": "ahri"
+    }
+  ]
+}
